@@ -14,7 +14,7 @@ import pandas as pd
 fig = plt.figure()
 # ax = Axes3D(fig)
 N=20
-sigma=0.5
+sigma=0.45
 
 
 target_pos=[[5+2*np.cos(2*np.pi*i/20),5+2*np.sin(2*np.pi*i/20),0.1*i] for i in range(20)]
