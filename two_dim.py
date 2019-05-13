@@ -1,11 +1,4 @@
-# import numpy as np
-#
-# a=np.array([[1,2],[2,3],[3,4]])
-#
-# def f(a):
-#     return a[1]-a[0]
-#
-# print(np.apply_along_axis(f,axis=1,arr=a))
+
 import numpy as np
 import matplotlib.pyplot as plt
 import math
